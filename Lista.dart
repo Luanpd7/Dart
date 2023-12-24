@@ -1,7 +1,7 @@
 /* Utilizando lista e seus métodos para criar um simples sistema de gerenciamento de estoque,
  onde o usúario irá digitar no menu as seguintes opções abaixo, os métodos que eu utilizei no 
- código foram "add()" para adicionar na lista, lenght e reduce para visualizar onde
- o lenght seria para saber quantidade e reduce para receber todos os produtos da lista,
+ código foram "add()" para adicionar na lista, lenght e reduce para visualizar onde,
+ lenght seria para saber quantidade e reduce para receber todos os produtos da lista,
  "remove" para remover um item, contains() para buscar um produto no carrinho e first e last
  para retornar o primeiro item e o último. */
 
