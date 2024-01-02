@@ -7,7 +7,7 @@
 
 import 'dart:io';
 
-void main() {
+void main() {               //Menu
   List<String> carrinho = [];
   bool cond = true;
 
@@ -56,7 +56,7 @@ List<String> addProduct() {  //Método para adicionar produto na lista
   return (listaProdutos);
 }
 
-void viewList(List<String> lista) {   //Método para saber a quantidade de itens na lista e mostrá todos os elementos
+void viewList(List<String> lista) {   //Método para saber a quantidade de itens na lista e mostrar todos os elementos
   var unidade = lista.length;
   print("Unidades: $unidade");
 
@@ -82,7 +82,7 @@ void removeProduct(List<String> lista) {            //Método para remover um it
 }
 
 
-void filterFirstLastProduct(List<String> lista){  //Método para filtrar o primeiro e ultimo da lista
+void filterFirstLastProduct(List<String> lista){  //Método para filtrar o primeiro e último da lista
   String first = lista.first;
   String last = lista.last;
    print("Primeiro Produto: $first");
