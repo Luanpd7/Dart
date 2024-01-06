@@ -1,7 +1,7 @@
 import 'Professor.dart';
 
 class Disciplina {
-  late String nome;
+  String nome;
   late Professor prof;
 
   Disciplina(this.nome);
