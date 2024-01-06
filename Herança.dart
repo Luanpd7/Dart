@@ -1,3 +1,7 @@
+/* Este código exemplifica o uso de herança e polimorfismo.
+  A SuperClasse Carro oferecerá atributos e métodos para as
+  SubClasse CarroEletrico e CarroInjetado */
+
 void main() {
   CarroEletrico carrinhoEletrico = CarroEletrico("Tesla XV", 23);
   carrinhoEletrico.abastecer();
