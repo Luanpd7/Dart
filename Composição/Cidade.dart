@@ -1,8 +1,8 @@
 import 'Prefeito.dart';
 
 class Cidade {
-  late String cidade;
-  late double populacao;
+  String cidade;
+  double populacao;
   late Prefeito prefeito;
 
   Cidade(this.cidade, this.populacao, String nome, String partido) {
