@@ -11,6 +11,6 @@ class Disciplina {
   }
 
   String toString() {
-    return "Mateira = $nome \n Professor = ${prof.nome} \n Idade = ${prof.idade} \n CPF = ${prof.cpf}";
+    return  "Mateira = $nome \n Professor = ${prof.nome} \n Idade = ${prof.idade} \n CPF = ${prof.cpf}";
   }
 }
