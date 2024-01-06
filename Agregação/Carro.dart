@@ -7,7 +7,7 @@ class Carro {
   String modelo;
   int ano;
   String placa;
-  List<Pecas> pecas = [];
+  List<Pecas> pecas =[];
 
 
   Carro(this.marca, this.modelo, this.ano, this.placa);
