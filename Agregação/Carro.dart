@@ -3,11 +3,11 @@
 import 'Pecas.dart';
 
 class Carro {
-  late String marca;
-  late String modelo;
-  late int ano;
-  late String placa;
-  late List<Pecas> pecas = [];
+  String marca;
+  String modelo;
+  int ano;
+  String placa;
+  List<Pecas> pecas = [];
 
 
   Carro(this.marca, this.modelo, this.ano, this.placa);
