@@ -1,6 +1,6 @@
 class Prefeito {
-  late String nome;
-  late String partido;
+ String nome;
+ String partido;
 
   Prefeito(this.nome, this.partido);
 }
