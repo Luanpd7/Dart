@@ -10,6 +10,7 @@ void main() {
   List<double> lista = mediaNotas();
   retornarMenorNota(lista);
   retornarMaiorNota(lista);
+ 
 }
 
 List<double> mediaNotas() {
@@ -93,3 +94,5 @@ void retornarMaiorNota(List<double> lista) {
   }
   print("Essa foi a maior nota $maiorNota");
 }
+
+
