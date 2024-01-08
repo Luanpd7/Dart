@@ -1,7 +1,7 @@
 class Professor {
-  late String nome;
-  late int idade;
-  late String cpf;
+  String nome;
+  int idade;
+  String cpf;
 
   Professor(this.nome, this.idade, this.cpf);
 }

@@ -1,5 +1,5 @@
 class Pecas {
-  late String nomePeca;
+   String nomePeca;
 
   Pecas(this.nomePeca);
 }

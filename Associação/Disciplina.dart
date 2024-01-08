@@ -1,7 +1,7 @@
 import 'Professor.dart';
 
 class Disciplina {
-  late String nome;
+  String nome;
   late Professor prof;
 
   Disciplina(this.nome);
@@ -11,6 +11,6 @@ class Disciplina {
   }
 
   String toString() {
-    return "Mateira = $nome \n Professor = ${prof.nome} \n Idade = ${prof.idade} \n CPF = ${prof.cpf}";
+    return  "Mateira = $nome \n Professor = ${prof.nome} \n Idade = ${prof.idade} \n CPF = ${prof.cpf}";
   }
 }
