@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'Produto.dart';
+
 
 class Carrinho {
   late bool carrinho;
