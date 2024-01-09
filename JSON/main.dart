@@ -1,7 +1,7 @@
 /*Uma das funções de um JSON é trocar dados entre (Sistema e API)*/
 
 /*Para enviar dados para uma API,
-posso criar e enviar de um  JSON direto ou retirar de um Map e converter para um JSON
+posso criar e enviar de um JSON direto ou retirar de um Map e converter para um JSON
 e para receber os dados de uma API, retornará como um JSON e para eu utilizar no código 
 de forma eficaz devo converter para um objeto.*/
  
