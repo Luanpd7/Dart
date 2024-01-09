@@ -1,8 +1,9 @@
 /*Uma das funções de um JSON é trocar dados entre (Sistema e API)*/
 
-/*Enviar dados criado direto com JSON ou converter um objeto para JSON e enviar para uma API
- e para receber os dados de uma API, eu recebo como json mas preciso converter para um objeto
- para fazer uma alguma operação no beck-end*/
+/*Para enviar dados para uma API,
+posso criar e enviar de um  JSON direto ou retirar de um Map e converter para um JSON
+e para receber os dados de uma API, retornará como um JSON e para eu utilizar no código 
+de forma eficaz devo converter para um objeto.*/
  
 import 'dart:convert';
 
