@@ -1,7 +1,6 @@
 import 'dart:io';
 
 
-
 class Carrinho {
   late bool carrinho;
   Map<String, double> listaProduct = {};
