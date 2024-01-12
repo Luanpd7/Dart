@@ -1,4 +1,6 @@
-### Olá Bem-Vindo ao Repositório Dart <br>
+### Olá Bem-Vindo ao Repositório Dart 
+
+
 
 - Este repositório foi criado no intuito de lançar simples projetos da linguagem Dart. <br>
 Então, foram lançados esses projetos como forma de aprendizado, explorando a sua sintaxe e exercitando a minha lógica de programação.
@@ -13,6 +15,8 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 - [x] Programação Orientada a Objetos (POO); <br>
 - [x] Relacionamentos;
 
-- Cada projeto está de forma documentado dentro da método main.
+- Cada projeto está de forma documentado dentro do método main.
+
+- E finalizando, decidi começar a estudar a linguagem Dart, pois quero iniciar meus estudos na framework Flutter. Acredito que aprender os fundamentos primeiro é essencial.
 
 
