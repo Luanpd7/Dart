@@ -13,6 +13,6 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 - [x] Programação Orientada a Objetos (POO); <br>
 - [x] Relacionamentos;
 
-- Cada projeto está de forma documentado dentro da classe main.
+- Cada projeto está de forma documentado dentro da método main.
 
 
