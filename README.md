@@ -5,10 +5,10 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 
 - Esses projetos contêm os principais conceitos fundamentais que existem em uma linguagem de programação, desde... <br>
 - [x] Estruturas de Controle de Fluxo; <br>
- Estruturas de Dados; <br>
- Funções/Métodos; <br>
- Comunicação de dados entre sistema e API's (JSON); <br>
- Funções assíncronas (Future, Async e Await); <br>
- Manipulação de Exceções (Try-Catch); <br>
- Programação Orientada a Objetos (POO); <br>
- Relacionamentos;
+- [x] Estruturas de Dados; <br>
+- [x] Funções/Métodos; <br>
+- [x] Comunicação de dados entre sistema e API's (JSON); <br>
+- [x] Funções assíncronas (Future, Async e Await); <br>
+- [x] Manipulação de Exceções (Try-Catch); <br>
+- [x] Programação Orientada a Objetos (POO); <br>
+- [x] Relacionamentos;
