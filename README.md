@@ -1,4 +1,4 @@
-### Olá Bem-Vindo ao Repositório Dart
+### Olá Bem-Vindo ao Repositório Dart <br>
 
 - Este repositório foi criado no intuito de lançar simples projetos da linguagem Dart. <br>
 Então, foram lançados esses projetos como forma de aprendizado, explorando a sua sintaxe e exercitando a minha lógica de programação.
@@ -15,4 +15,4 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 
 - Cada projeto está de forma documentado dentro da classe main.
 
-Cada projeto está de forma documentado dentro da classe main.
+
