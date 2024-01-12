@@ -11,7 +11,7 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 - [x] Funções assíncronas (Future, Async e Await); <br>
 - [x] Manipulação de Exceções (Try-Catch); <br>
 - [x] Programação Orientada a Objetos (POO); <br>
-- [x] Relacionamentos;
+- [x] Relacionamentos.
 
 - Cada projeto está de forma documentado dentro do método main.
 
