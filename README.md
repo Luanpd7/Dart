@@ -7,6 +7,7 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 - [x] Estruturas de Controle de Fluxo Condicional; <br>
 - [x] Estrutura de Laço de Repetição; <br>
 - [x] Estruturas de Dados; <br>
+- [x] Extensions; <br>
 - [x] Funções/Métodos; <br>
 - [x] Comunicação de dados entre sistema e API's (JSON); <br>
 - [x] Funções assíncronas (Future, Async e Await); <br>
