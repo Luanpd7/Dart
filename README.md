@@ -17,6 +17,6 @@ Então, foram lançados esses projetos como forma de aprendizado, explorando a s
 
 - Cada projeto está de forma documentado dentro do método main.
 
-- E finalizando, decidi começar a estudar a linguagem Dart, pois quero iniciar meus estudos na framework Flutter. Acredito que aprender os fundamentos primeiro é essencial.
+- E finalizando, decidi começar a estudar a linguagem Dart, pois quero iniciar meus estudos na framework Flutter. Acredito que aprender os fundamentos principais primeiro é essencial.
 
 
