@@ -99,3 +99,6 @@ void removeContact(Map<String, int> contatos) {
     print("Este contato não existe na sua lista");
   }
 }
+
+//O dart oferece tambem para acessar valores ou chaves individuais
+// for(name in listContact.keys) ou para valores for(number in listContact.values).
